@@ -4,7 +4,7 @@ public class exp3_medium {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
 
-            double balance = 10000;
+            double balance = 100000;
 
             try {
                 System.out.println("Enter withdrawal amount:");
